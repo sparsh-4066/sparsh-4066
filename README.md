@@ -46,6 +46,12 @@ Developed an AI-powered productivity platform integrating tools like Text & PDF 
 
  <br><br>
 
+ <h4>Dropout rate predictor | Student Assistance prediction model</h4>          Github repo: https://github.com/sparsh-4066/drop-out-rate-predictor<br>Video Demo: https://drive.google.com/drive/u/1/folders/1pHD7WU7Yao7dFtQEOWv263zqdsIvk_HP<br>
+Developed a student dropout prediction system that analyzes academic performance, attendance records, and financial information to estimate dropout probability.
+
+Designed with interactive visualizations to help institutions identify at-risk students and support data-driven decision making.
+
+
  
 
  
