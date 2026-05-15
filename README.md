@@ -28,9 +28,9 @@ CSE Undergraduate @ IIITDM Jabalpur
 
 
 ## 🗂️ Projects
-- <h4>-Algonitro | CP Tracker Friend</h4>         (Live Website): https://algonitro.vercel.app <br> Github repo: https://github.com/sparsh-4066/algonitro<br>
+- <h4>Algonitro | CP Tracker Friend</h4>         (Live Website): https://algonitro.vercel.app <br> Github repo: https://github.com/sparsh-4066/algonitro<br>
       Built a full-stack web application that aggregates coding statistics from LeetCode, Codeforces, and CodeChef into a unified dashboard for seamless performance tracking.
-<br><br>
+<br>
 
 
 
@@ -38,13 +38,13 @@ CSE Undergraduate @ IIITDM Jabalpur
       Built an all-in-one productivity web app featuring a Pomodoro Timer, Habit Tracker, Checklist, and Ambient Music to help users stay focused, organized, and consistent.
 
 
-<br><br>
+<br>
 
 - <h4>NeuroDesk | AI Productivity Platform</h4>           Github repo: https://github.com/sparsh-4066/neurodesk<br>
       Developed an AI-powered productivity platform integrating tools like Text & PDF Summarizers, YouTube Analyzer, Image Caption Generator, Resume Analyzer, and Emotion Sense.
 
 
- <br><br>
+ <br>
 
  - <h4>Dropout rate predictor | Student Assistance prediction model</h4>          Github repo: https://github.com/sparsh-4066/drop-out-rate-predictor<br>Video Demo: https://drive.google.com/drive/u/1/folders/1pHD7WU7Yao7dFtQEOWv263zqdsIvk_HP<br>
       Developed a student dropout prediction system that analyzes academic performance, attendance records, and financial information to estimate dropout probability.
