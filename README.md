@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sparsh Shukla 👋</h1>
 
-<h3 align="center">
-CSE Undergraduate @ IIITDM Jabalpur 
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=58A6FF&center=true&vCenter=true&width=1000&lines=CSE+Undergraduate+@+IIITDMJ;Open+Source+Learner;Competitive+Programmer;Building+Projects+and+Growing+Daily)](https://git.io/typing-svg)
+
+
 
 
 
@@ -59,6 +59,26 @@ CSE Undergraduate @ IIITDM Jabalpur
 - CodeChef 2⭐, HackerRank 3⭐(Java), Global Rank under 300(Div 3) in one of the contests of CodeChef
 - Keen interest in Open Source, driven by continuous learning, collaboration, and contribution to real-world development projects.
 
+
+  ## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-4066&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 🔗 Activity Graph
+
+[![Sparsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sparsh-4066&theme=tokyo-night)](https://github.com/sparsh-4066)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sparsh-4066&color=blue&style=for-the-badge)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sparsh-4066/sparsh-4066/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
