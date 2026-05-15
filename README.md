@@ -53,14 +53,14 @@
 
 
 
-## Achievements and Fields of Interest
+## 🏆 Achievements and Fields of Interest
 - Shortlisted at Smart India Hackathon (SIH) 2025 for the “Student Dropout Prediction System” project.
 - NSoC'26 Contributor
 - CodeChef 2⭐, HackerRank 3⭐(Java), Global Rank under 300(Div 3) in one of the contests of CodeChef
 - Keen interest in Open Source, driven by continuous learning, collaboration, and contribution to real-world development projects.
 
 
-  ## 📊 Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-4066&theme=tokyonight&hide_border=true" />
@@ -71,14 +71,18 @@
 
 [![Sparsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sparsh-4066&theme=tokyo-night)](https://github.com/sparsh-4066)
 
-## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=sparsh-4066&color=blue&style=for-the-badge)
 
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/sparsh-4066/sparsh-4066/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/sparsh-4066/sparsh-4066/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sparsh-4066&color=blue&style=for-the-badge)
 
 
 
