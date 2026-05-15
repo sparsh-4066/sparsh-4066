@@ -54,7 +54,7 @@ CSE Undergraduate @ IIITDM Jabalpur
 
 
 ## Achievements and Fields of Interest
-• Shortlisted at Smart India Hackathon (SIH) 2025 for the “Student Dropout Prediction System” project.
+- Shortlisted at Smart India Hackathon (SIH) 2025 for the “Student Dropout Prediction System” project.
 - NSoC'26 Contributor
 - CodeChef 2⭐, HackerRank 3⭐(Java), Global Rank under 300(Div 3) in one of the contests of CodeChef
 - Keen interest in Open Source, driven by continuous learning, collaboration, and contribution to real-world development projects.
