@@ -16,10 +16,10 @@ CSE Undergraduate @ IIITDM Jabalpur
 ---
 
 ## ⚒️ Skills
-Languages: Python, Java, C,C++, HTML, CSS, JavaScript, SQL,NOSQL MongoDB <br>
-Developer Tools: VS Code, IntelliJ IDEA, Git<br>
-Platforms: Windows, Web Development, Github<br>
-Soft skills: Teaching assistance, Problem-solving, adaptability
+- Languages: Python, Java, C,C++, HTML, CSS, JavaScript, SQL,NOSQL MongoDB <br>
+- Developer Tools: VS Code, IntelliJ IDEA, Git<br>
+- Platforms: Windows, Web Development, Github<br>
+- Soft skills: Teaching assistance, Problem-solving, adaptability
 
 ---
 
@@ -28,28 +28,37 @@ Soft skills: Teaching assistance, Problem-solving, adaptability
 
 
 ## 🗂️ Projects
-<h4>Algonitro | CP Tracker Friend</h4>         (Live Website): https://algonitro.vercel.app <br> Github repo: https://github.com/sparsh-4066/algonitro<br>
-Built a full-stack web application that aggregates coding statistics from LeetCode, Codeforces, and CodeChef into a unified dashboard for seamless performance tracking.
+- <h4>-Algonitro | CP Tracker Friend</h4>         (Live Website): https://algonitro.vercel.app <br> Github repo: https://github.com/sparsh-4066/algonitro<br>
+      Built a full-stack web application that aggregates coding statistics from LeetCode, Codeforces, and CodeChef into a unified dashboard for seamless performance tracking.
 <br><br>
 
 
 
-<h4>Flowfy | Productivity Partner</h4>         (Live Website): https://flowfy-henna.vercel.app/ <br> Github repo: https://github.com/sparsh-4066/flowfy<br>
-Built an all-in-one productivity web app featuring a Pomodoro Timer, Habit Tracker, Checklist, and Ambient Music to help users stay focused, organized, and consistent.
+- <h4>Flowfy | Productivity Partner</h4>         (Live Website): https://flowfy-henna.vercel.app/ <br> Github repo: https://github.com/sparsh-4066/flowfy<br>
+      Built an all-in-one productivity web app featuring a Pomodoro Timer, Habit Tracker, Checklist, and Ambient Music to help users stay focused, organized, and consistent.
 
 
 <br><br>
 
-<h4>NeuroDesk | AI Productivity Platform</h4>           Github repo: https://github.com/sparsh-4066/neurodesk<br>
-Developed an AI-powered productivity platform integrating tools like Text & PDF Summarizers, YouTube Analyzer, Image Caption Generator, Resume Analyzer, and Emotion Sense.
+- <h4>NeuroDesk | AI Productivity Platform</h4>           Github repo: https://github.com/sparsh-4066/neurodesk<br>
+      Developed an AI-powered productivity platform integrating tools like Text & PDF Summarizers, YouTube Analyzer, Image Caption Generator, Resume Analyzer, and Emotion Sense.
 
 
  <br><br>
 
- <h4>Dropout rate predictor | Student Assistance prediction model</h4>          Github repo: https://github.com/sparsh-4066/drop-out-rate-predictor<br>Video Demo: https://drive.google.com/drive/u/1/folders/1pHD7WU7Yao7dFtQEOWv263zqdsIvk_HP<br>
-Developed a student dropout prediction system that analyzes academic performance, attendance records, and financial information to estimate dropout probability.
+ - <h4>Dropout rate predictor | Student Assistance prediction model</h4>          Github repo: https://github.com/sparsh-4066/drop-out-rate-predictor<br>Video Demo: https://drive.google.com/drive/u/1/folders/1pHD7WU7Yao7dFtQEOWv263zqdsIvk_HP<br>
+      Developed a student dropout prediction system that analyzes academic performance, attendance records, and financial information to estimate dropout probability.
 
-Designed with interactive visualizations to help institutions identify at-risk students and support data-driven decision making.
+      Designed with interactive visualizations to help institutions identify at-risk students and support data-driven decision making.
+
+---
+
+## Achievements and Fields of Interest
+• Shortlisted at Smart India Hackathon (SIH) 2025 for the “Student Dropout Prediction System” project.
+- NSoC'26 Contributor
+- CodeChef 2⭐, HackerRank 3⭐(Java), Global Rank under 300(Div 3) in one of the contests of CodeChef
+- Keen interest in Open Source, driven by continuous learning, collaboration, and contribution to real-world development projects.
+
 
 
  
