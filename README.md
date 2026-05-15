@@ -38,7 +38,7 @@
 
 
 
-- <h4>NeuroDesk | AI Productivity Platform</h4>           Github repo: https://github.com/sparsh-4066/neurodesk<br>
+- <h4>NeuroDesk | Smart Productivity Platform</h4>           Github repo: https://github.com/sparsh-4066/neurodesk<br>
       Developed an AI-powered productivity platform integrating tools like Text & PDF Summarizers, YouTube Analyzer, Image Caption Generator, Resume Analyzer, and Emotion Sense.
 
 
