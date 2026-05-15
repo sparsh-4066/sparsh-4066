@@ -4,7 +4,7 @@
 CSE Undergraduate @ IIITDM Jabalpur 
 </h3>
 
----
+
 
 
 - 🎓 B.Tech CSE student at IIITDM Jabalpur
@@ -13,7 +13,7 @@ CSE Undergraduate @ IIITDM Jabalpur
 - ⚡ Expanding skills in Competitive Programming and DSA
 - 🚀 Currently learning and working on Open Source, JAVA, Python and real world development projects
 
----
+
 
 ## ⚒️ Skills
 - Languages: Python, Java, C,C++, HTML, CSS, JavaScript, SQL,NOSQL MongoDB <br>
@@ -21,7 +21,7 @@ CSE Undergraduate @ IIITDM Jabalpur
 - Platforms: Windows, Web Development, Github<br>
 - Soft skills: Teaching assistance, Problem-solving, adaptability
 
----
+
 
 
 
@@ -51,13 +51,15 @@ CSE Undergraduate @ IIITDM Jabalpur
 
       Designed with interactive visualizations to help institutions identify at-risk students and support data-driven decision making.
 
----
+
 
 ## Achievements and Fields of Interest
 • Shortlisted at Smart India Hackathon (SIH) 2025 for the “Student Dropout Prediction System” project.
 - NSoC'26 Contributor
 - CodeChef 2⭐, HackerRank 3⭐(Java), Global Rank under 300(Div 3) in one of the contests of CodeChef
 - Keen interest in Open Source, driven by continuous learning, collaboration, and contribution to real-world development projects.
+
+
 
 
 
