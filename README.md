@@ -97,7 +97,7 @@
 - LinkedIn: https://www.linkedin.com/in/sparsh-shukla-7905a4329/
 - GitHub: https://github.com/sparsh-4066
 - Email: sparshuser1234@gmail.com
-- Discord_Username: sparsh26
+- Discord_Username: sparsh_6969
 
 ---
 
