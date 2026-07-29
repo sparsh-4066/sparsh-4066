@@ -61,7 +61,10 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-4066&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=sparsh-4066&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
